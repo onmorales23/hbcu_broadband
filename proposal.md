@@ -2,7 +2,7 @@
 title: Measuring Students' Access to Broadband at Historically Black Colleges and Universities (HBCUs)
 subtitle: Proposal for AEFP 2024
 author: Olivia Morales and Benjamin Skinner
-date: 2023-10-07
+date: 2023-10-12
 bibliography: hbcu_broadband.bib
 header-includes:
   - \usepackage[backend=biber, style=apa]{biblatex}
@@ -59,7 +59,7 @@ This focus on historically underserved and underfunded institutions
 will shed light on large-scale inequities in access to broadband for
 the most vulnerable student populations in the country. Previous
 research highlights broadband disparities geographically [@larose_etal_2007;
-@westkarsten_2016], but recent scholarship by @skinner_etal_2021 has
+@westkarsten_2016; @vogels_2021], but recent scholarship by @skinner_etal_2023 has
 challenged this narrow view of broadband access by underscoring
 inequities across racial/ethnic & socioeconomic subpopulations,
 connecting this heterogeneity to historical redlining practices
@@ -70,8 +70,8 @@ geography, institution type and student demographics.
 
 ### Research Questions ###
 
-1. Does broadband access vary across student populations at HBCUs?
-2. Does geography exacerbate broadband access inequities across HBCUs?
+1. Does broadband access vary across surrounding populations at MSIs?
+2. Does the urban/rural broadband access divide exacerbate inequities across MSIs?
 
 ### Data ###
 
